@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_qpt_sdw_pjb">
+    <title>Accounting</title>
+    <body>
+        <image href="../pic/accounting.jpeg" id="image_lh1_flm_vjb" width="700" height="400"/>
+        <section id="section_vxf_xfm_vjb">
+            <title>Get Started in Seconds</title>
+            <p>Creating your account is very simple, everything's is generated as soon as you create
+                an account so you can get started right away. Access it when and whenever. Your data
+                is always available, and is stored securely just in case something goes wrong.</p>
+        </section>
+        <section id="section_dj2_wfm_vjb">
+            <title>Unlimited bank and credit card connections</title>
+            <p>Connect your bank accounts swiftly. It is a quick and easy process for customers. The
+                transactions will appear in your bookkeeping automatically, and you do not have to
+                worry about putting information in yourself. </p>
+        </section>
+        <section id="section_mjf_bgm_vjb">
+            <title>Keep Track of your business health</title>
+            <p>Do you want to keep track of your yearly progress? Look no further. Our reports are
+                easy to use and show month-to-month or year-to-year comparisons so you can easily
+                identify cash flow trends.</p>
+        </section>
+        <section id="section_gvz_fgm_vjb">
+            <title>Make tax time a breeze</title>
+            <p>When everything is in correct format, tax time is simple. Wave’s smart dashboard
+                organizes your income, expenses, payments, and invoices.</p>
+        </section>
+        <section id="section_nzs_ggm_vjb">
+            <title>We’re serious about security</title>
+            <p>Bank data connections are read-only and use 256-bit encryption. Servers are housed
+                under physical and electronic protection. Wave is PCI Level-1 certified for handling
+                credit card and bank account information.</p>
+        </section>
+    </body>
+</topic>

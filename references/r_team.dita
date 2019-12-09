@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_qpt_sdw_pjb">
+    <title>The Team</title>
+    <body>
+        <image href="../pic/kirk.jpg" id="image_kvk_nqk_qjb"/>
+        <p>Kirk Simpson <b>Cofounder &amp; CEO</b></p>
+        <p>A CEO is the highest-ranking executive in a company, whose primary responsibilities
+            include making major corporate decisions, managing the overall operations and resources
+            of a company, acting as the main point of communication between the board of directors
+            and corporate operations and being the public face of the company.</p>
+        <image href="../pic/ideshini.jpg" id="image_xns_wqk_qjb"/>
+        <p>Michael DiBernardo <b>VP, Engineering</b></p>
+        <p>The Vice President of a company is second in command and supports the CEO by overseeing
+            internal operations and stepping in when the CEO is unavailable. The Vice President has
+            a top-level leadership role in a company and oversees department managers.</p>
+        <image href="../pic/girl.jpg" id="image_vs2_2rk_qjb"/>
+        <p>Ideshini Naidoo <b>Chief Technology Officer</b></p>
+        <p>An executive position in a company or other entity whose occupation is focused on
+            scientific and technological issues within an organization.</p>
+        <image href="../pic/sara.jpg" id="image_jrn_mrk_qjb"/>
+        <p>Sara Durning <b>Senior Director, Design</b></p>
+        <p>A director is a senior management position responsible for the strategic and tactical
+            management of a significant piece of the company. She manages subordinate managers.</p>
+    </body>
+</topic>

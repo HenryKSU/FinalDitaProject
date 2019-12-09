@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_qpt_sdw_pjb">
+    <title>How to Sign Up </title>
+    <body>
+        <p>
+            <ol id="ol_jgb_sl3_5jb">
+                <li>Go onto your prefered web browser whether it be safari or google chrome. This
+                    allow you to access the website.</li>
+                <li>Type in the address bar "waveapps.com". It will bring you to the main page of
+                    the website. <p>Once you are on the homepage the first thing you willl see is a
+                        way to signup </p><image href="../pic/signup.PNG" width="500" height="350"
+                        id="image_wcn_2q3_5jb"/></li>
+                <li>Fill out the information required, your email and a password. Click Create your
+                    free account. You will want to write this down somewhere so you can remember
+                    it.</li>
+                <li>Once you create your free account, it will ask for your name, business name, and
+                    what your business does. Fill all of it out.<p/><image
+                        href="../pic/sign%20up1.PNG" id="image_dqb_jc3_vjb" height="400" width="500"
+                    /></li>
+                <li>After you click Next, you will be able to choose a starting point. You will have
+                    four options to pick from. Pick the option that works the best for you
+                    personally.</li>
+                <li>After the option was selected, answer the final question if you are currently in
+                    business and click Get started<p/><image href="../pic/signup3.PNG"
+                        id="image_at1_sd3_vjb" width="500" height="400"/></li>
+            </ol>
+        </p>
+        <p>Once you click get started, your account will get created and you will be able to fully
+            utilize all the features of Wave Financial.</p>
+        <p>If you have already made an account, you can go straight to the launchpad  for your
+            needs.</p>
+    </body>
+    <topic id="id_bpm_k24_zjb" conref="../reuse/r_launchpad_reuse.dita">
+        <title/>
+    </topic>
+</topic>

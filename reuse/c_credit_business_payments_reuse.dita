@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_qpt_sdw_pjb">
+    <title>Credit Card and Business Payments</title>
+    <body>
+        <image id="image_wyt_wlm_vjb" href="../pic/creditcard.jpeg" width="700" height="400"/>
+        <p><b>Credit Card Payments</b></p>
+        <ul id="ul_pd1_1gl_zjb">
+            <li>Faster payments means more fluidity with cash flow. Accepts all major credit cards. </li>
+            <li>Get paid in 2 days, enhance your brand, and look more presentable when you enable
+                Payments by Wave. Accepts credit card payments for a fee of 2.9% + 30¢ per
+                transaction. </li>
+            <li>Get paid every month with little to no effort. Create invoice schedules for frequent
+                customers and charge your clients’ cards automatically.</li>
+            <li>Feel secure knowing your business and customer data are gaurded by  the highest
+                level of certified bank-grade  security practices.</li>
+        </ul>
+        <p><b>Bank Payments</b></p>
+        <ul id="ul_dmf_bgl_zjb">
+            <li>Wave's bank payments (ACH) option is like paying with a check, but without
+                confusion. You'll get paid faster which saves time for both you and your
+                customers.</li>
+            <li>Faster payments means more growth in your business. When your customers use bank
+                payments (ACH), you’ll get your money within 2-7 business days.</li>
+            <li>Online payments at an shocking low rate. No hidden fees.Customers can pay directly
+                from their bank account. Perfect for when card payments are not convienent.</li>
+        </ul>
+    </body>
+</topic>

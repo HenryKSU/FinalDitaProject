@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_qpt_sdw_pjb">
+    <title>How to create an Invoice</title>
+    <shortdesc>An invoice is a document that records a transaction between a buyer and a seller. If
+        goods or services were purchased on credit, the invoice usually specifies the terms of the
+        deal and provides information on the available methods of payment. There are different types
+        of invoices which may include a receipt, a bill of sale, debit note, or sales
+        invoice.</shortdesc>
+    <body>
+        <ol>
+            <li>Under the sales tab, click on inovices. This will bring you to a screen that will
+                allow you to start an invoice.<p/><image href="../pic/invoices.PNG"
+                    id="image_smc_1sl_vjb"/></li>
+            <li>Start by adding your logo to the invoice. This will allow documents to have your
+                brand on it so customers can see who its from.</li>
+            <li>Select a template for the invoice. It is based on your personal preference as there
+                are many to choose from. This will be the layout of your invoice.</li>
+            <li>Chose the accent color for your document. It is best to choose a similar color to
+                your brand to match. </li>
+            <li>Click "Looks great, let's go". If you do not want to customize your invoice. You can
+                skip it by clicking <b><u>skips this</u></b>.<image href="../pic/1-5%20invocies.PNG"
+                    id="image_sdt_vrl_vjb" width="700"/></li>
+            <li>Once on the next screen, fillout the invoice title and the summary of what the
+                invoice is. The name of the invoice should be something recognizable.You want to be
+                as descriptive as possible for the summary.<p/><image
+                    href="../pic/invoice%20title.PNG" id="image_wrm_psl_vjb"/></li>
+            <li> Add the customer you would like to send the bill to.</li>
+            <li>Type in the S.O/P.O and Invoice number.</li>
+            <li> Choose the date when the esitmate started and ended. </li>
+            <li>Add the cost by choosing the product.</li>
+            <li>Describe the product in the description. Its best to be descriptive as
+                possible.</li>
+            <li>Add the quantity of the product.</li>
+            <li>Add the price and tax of the product.</li>
+            <li>Select the type of currency the estimate has. Wave Financial has a vast selection of
+                currency to choose from.</li>
+            <li>Fill out the notes and footer if needed.<p/><image href="../pic/invoiceinfo.PNG"
+                    id="image_jck_d5l_vjb" width="700"/></li>
+            <li>Click save and the invoice will be added.</li>
+            <li> The next screen will ask to approve the draft. Click approve and it will send the
+                invoice to the customer.</li>
+            <li> The draft will be created and it will send it to your customer. You will need to
+                wait until the customer pays for the invoice.</li>
+        </ol>
+        <image href="../pic/approvedraft.PNG" id="image_qyg_15l_vjb" width="700"/>
+    </body>
+</topic>

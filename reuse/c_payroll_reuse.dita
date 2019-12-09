@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_qpt_sdw_pjb">
+    <title>Payroll</title>
+    <body>
+        <image id="image_wyt_wlm_vjb" href="../pic/payroll.jpeg" width="700" height="400"/>
+        <section id="section_snm_rhm_vjb">
+            <title>Pay employees and contractors</title>
+            <p>Distribute wages to contractors and employees, and generate W2 and 1099 forms for tax
+                season. Workers' compensation coverage through AP Intego. Priority customer support,
+                direct from Wave headquarters</p>
+        </section>
+        <section id="section_gqq_shm_vjb">
+            <title>Direct deposit</title>
+            <p>Dispurse payments directly into the employees’ bank accounts, quickly and securely.
+                Less work for you, and your team will love it.</p>
+        </section>
+        <section id="section_kg2_thm_vjb">
+            <title>Automatic filings and payments</title>
+            <p>Wave’s payroll tax service can automatically pay and file state and federal payroll
+                taxes for businesses residing in CA, FL, IL, NY, NC, TN, TX, VA, and WA. (Coming
+                soon to more states.) </p>
+        </section>
+        <section id="section_rdw_thm_vjb">
+            <title>Automatic payroll journal entries</title>
+            <p>Payroll software by Wave is easily connected with the rest of your Wave account to
+                reduce time spent on manual bookkeeping.</p>
+        </section>
+        <section id="section_txm_5hm_vjb">
+            <title>Self-service pay stubs and tax forms</title>
+            <p>Employees can log into their account to manually retrieve pay stubs and W2s, and
+                manage their contact and banking information.</p>
+        </section>
+        <section id="section_nwc_vhm_vjb">
+            <title>Protect your team with workers' comp</title>
+            <p>Pay for what you use and simplify your annual audits with workers' compensation built
+                for small business owners. Great for seasonal businesses; put employees on hold any
+                time for free. </p>
+        </section>
+    </body>
+</topic>

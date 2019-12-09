@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_qpt_sdw_pjb">
+    <title>How to create an Estimate</title>
+    <shortdesc>Estimate means the way chosen to pay the tax on income when it is not subject to withholding.
+        Self-employment, interest, dividends, rents, and alimony are included in this income.
+        For Taxpayers who refute choosing to have taxes withheld from other taxable income, make estimated tax.</shortdesc>
+    <body>
+        <ol>
+            <li>Under the sales tab, select estimate. This displays all the estimates you currently
+                have. The option to create an estimate is also available.<p/><image
+                    href="../pic/dashboardestimates.PNG" id="image_n2l_tl3_vjb"/></li>
+            <li>Upon arriving at the estimate screen, select the Create estimates button on the
+                upper right of the screen.<p/><image href="../pic/createestimates.jpg"
+                    id="image_zqg_nm3_vjb" width="600"/></li>
+            <li>Select an estimate number and name to help organize each estimate.</li>
+            <li>Select the customer that owns the estimate. </li>
+            <li>Select which type of currency the estimate uses. Wave Financial has multiple choices
+                of currency to choose from spanning from economies across the world.</li>
+            <li> Select a date for when the esitmate starts and ends. </li>
+            <li> Type in the S.O/P.O</li>
+            <li> Write out the subheading, footer, and the memo.<p/><image
+                    href="../pic/addestimate.PNG" id="image_vsx_qn3_vjb"/></li>
+            <li> Add the cost by selecting the product.</li>
+            <li>Type in a description for the product in the description box. Be as detailed as
+                possible.</li>
+            <li>Add the products quantity.</li>
+            <li>Add the products price and tax.</li>
+            <li>When finished, click save and the estimate will be added.</li>
+        </ol>
+        <image href="../pic/product.PNG" id="image_uzd_g43_vjb"/>
+    </body>
+</topic>

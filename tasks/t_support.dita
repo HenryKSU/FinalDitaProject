@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_qpt_sdw_pjb">
+    <title>Support</title>
+    <body>
+        <p>Here is a step by step video, that will help you get the support you need if you have any
+            questions or need help with something.</p>
+        <p><xref href="https://youtu.be/QGb_Etm1YOw" format="html" scope="external"/></p>
+        <p><object width="560" height="315" data="https://www.youtube.com/embed/QGb_Etm1YOw"
+                outputclass="iframe">
+                <param name="allowfullscreen"/>
+            </object></p>
+    </body>
+</topic>

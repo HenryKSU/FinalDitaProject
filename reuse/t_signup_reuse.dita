@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_qpt_sdw_pjb">
+    <title>How to Sign Up </title>
+    <body>
+        <p>
+            <ol id="ol_jgb_sl3_5jb">
+                <li>Open your preferred web browser (firefox, Google Chrome, etc.)</li>
+                <li>Enter "waveapps.com" into your address bar. This will bring you to the Wave
+                    Financlia website homepage. <p>The first thing you will see is the option to
+                        signup. </p><image href="../pic/signup.PNG" width="500" height="350"
+                        id="image_wcn_2q3_5jb"/></li>
+                <li>Enter your email and a usable password. Then Click Create to create
+                    your free Waves Financial account.</li>
+                <li>Now that you have created your free account, it will ask for your name, business
+                    name, and what type of business you own. Fill out this information.<p/><image
+                        href="../pic/sign%20up1.PNG" id="image_dqb_jc3_vjb" height="400" width="500"
+                    /></li>
+                <li>After you click Next, different starting points will be offered for you to choose from. You will have
+                    four options, the option that works the best for you
+                    personally.</li>
+                <li>After selecting the options, answer if you are already in business or just
+                    starting and then click next. <image href="../pic/signup3.PNG"
+                        id="image_at1_sd3_vjb" width="500" height="400"/></li>
+            </ol>
+        </p>
+        <p>Select get started, your account will now be operational and you will have access to all of wave Finiancials features.</p>
+    </body>
+</topic>

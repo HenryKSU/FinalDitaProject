@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_qpt_sdw_pjb">
+    <title>Frequently Asked Questions</title>
+    <body>
+        <image href="../pic/faqs.jpeg" id="image_ap5_4mm_vjb" height="400" width="700"/>
+        <p><b>Is your software actually free?</b>
+        </p>
+        <p>There are no tricks to our pricing. Our software is all free, no trials, no limitations,
+            and no hidden fees. Use it as much as you want, for as long as you want, and there will
+            not be any charges to your account. Our free software includes invoicing, accounting,
+            and receipt scanning.</p>
+        <p><b>What’s the catch? How does Wave make money? </b></p>
+        <p>Wave makes money from prenimum financial services we offer that make running your
+            business easier. We offer services in Canada and the U.S. at a cheap price. We also
+            allow businesses to accept payments online so you can get invoices paid faster; we
+            charge a competitive 2.9% + 30¢ fee to process credit cards, and 1% for bank payments. </p>
+        <p><b>Do you provide support? </b></p>
+        <bodydiv>Yes. We have one of the best support teams ready for your questions. We’re ready to
+            answer all your questions with email support for all software. Live chat support is
+            available for our paid financial services (Payments and Payroll). Its open to 10 am to 7
+                    pm.<p><b>Is my data safe? </b></p><p>Completely safe. Our servers are protected
+                physically and electronically. We strive to have the best security because we want
+                our customers safe. Any connection between you and Wave is protected by 256-bit SSL
+                encryption. This is one of the best protections out there. Wave is a PCI-DSS Level 1
+                Service Provider.</p><b>Is Wave going to be around?</b>
+        </bodydiv>
+        <bodydiv>Wave has grown massively over the years. Our business keeps growing more and more
+            everyday. Wave has been used by hundreds of thousands of small business owners around
+            the world, and made over $330 billion in income &amp; expenses since 2010.</bodydiv>
+    </body>
+</topic>

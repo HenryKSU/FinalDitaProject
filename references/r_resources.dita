@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="resources-ref">
+    <title>Resources</title>
+    <shortdesc>All of the content created in this guide was based off these links.</shortdesc>
+    <related-links>
+        <link href="https://www.waveapps.com/" format="html" scope="external"/>
+        <link href="https://pixabay.com/" format="html" scope="external"/>
+        <link href="https://www.google.com/" format="html" scope="external"/>
+    </related-links>
+</reference>

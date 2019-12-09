@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_qpt_sdw_pjb">
+    <title>Payouts</title>
+    <body>
+        <p>This is where you can input your payouts from your customers. Your customers can pay you
+            online with visa, MasterCard, American Express, discover or a standard bank payment. </p>
+        <image href="../pic/payouts.PNG" width="500" id="image_hqy_tgn_zjb"/>
+        <p> </p>
+        <p>You can see how this payments affect your invoices, as faster payments increase cash
+            flow, your recurring invoices, where you can get paid automatically from repeat
+            customers, or checkouts where you can payments directly from your website without having
+            to code a check out system in. </p>
+        <p> </p>
+        <p>If you verify your identity, you can even receive deposits directly in your account from
+            payouts the moment the transaction begins. </p>
+        <p> </p>
+    </body>
+</topic>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_qpt_sdw_pjb">
+    <title>Reciepts</title>
+    <body>
+        <image id="image_ufq_gmm_vjb" href="../pic/recipt.jpeg" height="400" width="700"/>
+        <section id="section_rcn_j3m_vjb">
+            <title>Scan receipts anywhere</title>
+            <p>You can take a picture of your receipt using Wave’s mobile receipt scanning app. It
+                can be in your car, home, office. Wave Financial is very flexible in the way we do
+                things. You can also view them online and offline. It is essential to have when
+                running a business. We know that users are not always online so we have taken the
+                liberty to add these functions.</p>
+        </section>
+        <section id="section_us5_m3m_vjb">
+            <title>Review the information</title>
+            <p>Review the receipt information before approving it. You will be able to see each
+                reciept in detail so there is not mistake. Mistake can be easily made so Wave
+                Fianancial will solve those problems for you.</p>
+        </section>
+        <section id="section_j1k_q3m_vjb">
+            <title>Sync and track your receipts</title>
+            <p>Receipts sync seamlessly with your Wave account, so you’ll always have an accurate
+                picture of your business expenses. These expenses are important for your business.
+                There is no place like Wave Fianancial to help with tracking and syncing.</p>
+        </section>
+        <section id="section_rw2_r3m_vjb">
+            <title>Scan receipts offline</title>
+            <p>Receipts by Wave works even when it’s not connected to the Internet so you can scan
+                receipts anytime, anywhere. The app syncs automatically the next time your device is
+                online.</p>
+        </section>
+        <section id="section_onx_r3m_vjb">
+            <title>Have receipts in your inbox?</title>
+            <p>If you have a receipt sitting in your inbox, you can email it to
+                receipts@waveapps.com. The information will flow automatically into your Wave
+                account.</p>
+        </section>
+    </body>
+</topic>

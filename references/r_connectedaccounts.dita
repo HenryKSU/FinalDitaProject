@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_qpt_sdw_pjb">
+    <title>Connected Accounts</title>
+    <body>
+        <p>This section allows you to connect a bank account or credit card. This feature is an
+            important tool for users looking for automatic love processes for their finances. It
+            provides an easy way to have transactions logged right into your account. </p>
+        <image href="../pic/connectacc.PNG" width="500" id="image_oqf_kgn_zjb"/>
+        <p><cite>Picture of connected accounts page</cite></p>
+        <p> </p>
+        <p>You can search for your preferred bank automatically. A search box on this page will let
+            you go through the multitude of compatible banks. Just select your bank then fill out
+            the information. Your accounts will then become connected. </p>
+        <p> </p>
+        <p>Connecting your bank account or credit card can give you a multitude of benefits
+            including better accounting as your income can be updated in real time, better
+            accounting with real time support if your account, and it’s 100% secure for our users.
+        </p>
+    </body>
+</topic>

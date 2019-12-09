@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_qpt_sdw_pjb">
+    <title>Chart of Account</title>
+    <body>
+        <p>This section allows the user to input then review the financial features of their
+            accounts. From this page, assets, Liabilities &amp; Credit Cards, Income, Expenses and
+            equity. Once these are inputted the user will have a great overview of their NetWorth. </p>
+        <image href="../pic/chartsofaccount.PNG" id="image_fdy_4fn_zjb" width="500"/>
+        <p><cite>Picture of the chart of account page</cite></p>
+        <p>The Assets feature allows you to input your current assets such as your cash on hand or
+            even your money in transit to your account. The Liabilities &amp; Credit Cards section
+            allows you to input loans, dues and credit card payments. Income allows you to measure
+            your most current income amount. </p>
+        <p>The Expenses section allows you to input operating expenses, cost of goods sold, payment
+            processing fees, payroll expense, uncategorized expenses, and loss on foreign exchanges.
+            Finally, the Equity section allows you to view the business owners contribution and
+            drawing. It also lets you view your retain earnings and profits. </p>
+    </body>
+</topic>

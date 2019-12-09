@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
+<bookmap>
+    <booktitle>
+        <mainbooktitle>Wave Finanacial</mainbooktitle>
+    </booktitle>
+    <chapter href="concepts/c_introduction.dita" audience="expert novice">
+        <topicref href="concepts/c_story.dita"/>
+        <topicref href="references/r_team.dita"/>
+        <topicref href="concepts/c_values.dita"/>
+        <topicref href="concepts/c_mission.dita"/>
+        <topicref href="concepts/c_beliefs.dita"/>
+        <topicref href="concepts/c_partner.dita"/>
+    </chapter>
+    <chapter href="references/r_services.dita">
+        <topicref href="references/r_accounting.dita"/>
+        <topicref href="concepts/c_invoicing.dita"/>
+        <topicref href="concepts/c_payments.dita"/>
+        <topicref href="concepts/c_payroll.dita"/>
+        <topicref href="concepts/c_credit_business_payments.dita"/>
+        <topicref href="references/r_reciepts.dita"/>
+    </chapter>
+    <chapter href="tasks/t_signup.dita"/>
+    <chapter href="references/r_launchpad.dita">
+        <topicref href="references/r_dashboard.dita"/>
+    </chapter>
+    <chapter href="concepts/c_sales.dita">
+        <topicref href="tasks/t_estimate.dita"/>
+        <topicref href="tasks/t_invoice.dita"/>
+        <topicref href="tasks/t_rec_invoice.dita"/>
+    </chapter>
+    <chapter href="concepts/c_accounting.dita" audience="expert">
+        <topicref href="references/r_transactions.dita"/>
+        <topicref href="tasks/t_recouncilation.dita"/>
+        <topicref href="references/r_chartofaccount.dita"/>
+        <topicref href="references/r_hirebookkeeper.dita"/>
+    </chapter>
+    <chapter href="concepts/c_banking.dita">
+        <topicref href="references/r_connectedaccounts.dita"/>
+        <topicref href="references/r_payouts.dita"/>
+    </chapter>
+    <chapter href="tasks/t_support.dita">
+        <topicref href="references/r_faqs.dita"/>
+    </chapter>
+    <chapter href="references/r_resources.dita"/>
+</bookmap>

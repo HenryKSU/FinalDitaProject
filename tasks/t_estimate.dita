@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_qpt_sdw_pjb">
+    <title>How to create an Estimate</title>
+    <shortdesc>Estimate is the method used to pay tax on income that is not subject to withholding.
+        This income includes earnings from self-employment, interest, dividends, rents, and alimony.
+        Taxpayers who do not choose to have taxes withheld from other taxable income should also
+        make estimated tax.</shortdesc>
+    <body>
+        <ol>
+            <li>Under the sales tab, click on estimate. This will bring you to all the estimates you
+                have. It will also let you create an estimate.<p/>
+                <image href="../pic/dashboardestimates.PNG" id="image_n2l_tl3_vjb"/></li>
+            <li>Once you see the estimate screen, click on the Create estimates button on the upper
+                right of the screen.<p/><image href="../pic/createestimates.PNG"
+                    id="image_zqg_nm3_vjb" width="600"/></li>
+            <li>Pick an estimate number and name so you can easily organzie each estimate.</li>
+            <li>Select the customer that the estimate belongs to. It connects the information to
+                that customer.</li>
+            <li>Select the type of currency the estimate has. Wave Financial has a vast selection of
+                currency to choose from.</li>
+            <li> Choose the date when the esitmate started and ended. </li>
+            <li> Type in the S.O/P.O</li>
+            <li> Fill out the subheading, footer, and the memo.<p/>.<image
+                    href="../pic/addestimate.PNG" id="image_vsx_qn3_vjb"/></li>
+            <li> Then add the cost by choosing the product.</li>
+            <li>Describe the product in the description. Its best to be descriptive as
+                possible.</li>
+            <li>Add the quantity of the product. It how many of the product do you have in
+                stock,</li>
+            <li>Add the price and tax of the product. Every state differents in price and tax so
+                make sure what the taxes are.</li>
+            <li>Finally, click save and the estimate will be added</li>
+        </ol>
+        <image href="../pic/product.PNG" id="image_uzd_g43_vjb"/>
+    </body>
+</topic>

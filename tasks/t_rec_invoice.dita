@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_qpt_sdw_pjb">
+    <title>How to create a Recurring Invoice</title>
+    <shortdesc>A recurring invoice is where you can bill an invoice to a customer every billing
+        cycle. Wave Financial makes it wast by charging your customer's saved cred card information
+        so you can automatically get paid instantly. It allows you fully customize the invoice any
+        way you want it.</shortdesc>
+    <body>
+        <ol>
+            <li>Under the sales tab, click on recurring invoices. This will bring you to a screen
+                that will allow you to start a recurring invoice. <image href="../pic/recur.PNG"
+                    id="image_qtr_hxl_vjb"/></li>
+            <li>Start by clicking Create a Recurring Invoice. </li>
+            <li>Once on the next screen, fillout the invoice title and the summary of what the
+                invoice is. The name of the invoice should be something recognizable.You want to be
+                as descriptive as possible for the summary.<p/><image
+                    href="../pic/invoice%20title.PNG" id="image_wrm_psl_vjb"/></li>
+            <li> Add the customer you would like to send the bill to.</li>
+            <li>Type in the S.O/P.O .</li>
+            <li>Choose the payment due date. This is when the customer has to pay for the invoice.
+                You can select within 7 days to 90 days.</li>
+            <li>Add the cost by choosing the product.</li>
+            <li>Describe the product in the description. Its best to be descriptive as
+                possible.</li>
+            <li>Add the quantity of the product.</li>
+            <li>Add the price and tax of the product.</li>
+            <li>Select the type of currency the estimate has. Wave Financial has a vast selection of
+                currency to choose from.</li>
+            <li>Fill out the notes and footer if needed.</li>
+            <li>Click save and the invoice will be added.<p/><image href="../pic/recurinvoice.PNG"
+                    id="image_a3d_xxl_vjb" width="700"/></li>
+            <li> The next screen will ask to set the schedule. Choose the date for the invoice as
+                well as the time zone you would be using for the customers. After filling out the
+                information correctly, Click Next. .<image href="../pic/setschedule.PNG"
+                    id="image_xtl_gyl_vjb" width="700"/></li>
+            <li> Click Save on the next screen. This option will make automatic payments to the
+                    customer.<p/><image href="../pic/save.PNG" id="image_smx_fzl_vjb" width="700"
+                /></li>
+            <li>The next screen will allow you to send the invoice through email. Type in the email
+                you would like to send the invoice to. Its optional to type of a custom message for
+                your customer to inform them what it is. You are also given the option to check
+                "Attach PDF of the invoice to the email sent to the customer" or "Email a copy of
+                each invoice to myself". Then Click Next.<p/>
+                <image href="../pic/4.PNG" id="image_u3c_tzl_vjb" width="700"/></li>
+            <li>Click Approve and start recurring payments. This will start the recurring
+                    payments.<p/><image href="../pic/start.PNG" id="image_gcj_21m_vjb" width="700"
+                /></li>
+        </ol>
+    </body>
+</topic>

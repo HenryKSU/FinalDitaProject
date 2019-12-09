@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_qpt_sdw_pjb">
+    <title>Our Beliefs</title>
+    <body>
+        <image id="image_uhl_sqj_sjb" href="../pic/beliefs.jpeg" height="300" width="500"/>
+        <simpletable frame="all" relcolwidth="1* 1*" id="simpletable_sy3_spj_sjb">
+            <sthead>
+                <stentry>Beliefs</stentry>
+                <stentry>
+                    <p>Details</p>
+                </stentry>
+            </sthead>
+            <strow>
+                <stentry>
+                    <p><b>Removing barriers to success</b></p>
+                </stentry>
+                <stentry>
+                    <p>Cost should never be a factor for your business. We want help businesss that
+                        are failing because of poor financial management. </p>
+                </stentry>
+            </strow>
+            <strow>
+                <stentry>
+                    <p><b>Bringing software and banking services together</b></p>
+                </stentry>
+                <stentry>A single system will move and track money faster which is great for small
+                    businesses.They are more sucessful with a single system. We are putting more
+                    banks into Wave to improve cash flow. With this, you can get paid by your
+                    clients, access your money faster, pay others, and fix problems along the
+                    way</stentry>
+            </strow>
+            <strow>
+                <stentry>
+                    <p><b>Reinvesting in our products</b></p>
+                </stentry>
+                <stentry>
+                    <p>We are always looking to change the way things are. We are unsatisfied with
+                        the status quo nowaday and obsessively work to raise the standard in todays
+                        industries</p>
+                </stentry>
+            </strow>
+            <strow>
+                <stentry>
+                    <p><b>Celebrating successes</b></p>
+                </stentry>
+                <stentry>
+                    <p>During your progress, you will reach massive success in different ways: maybe
+                        you’ve hired your first team, created a new product from scratch, or
+                        received the best review you have ever gotten. Whatever that is, we will
+                        proudly stand behind you and congratulate you.</p>
+                </stentry>
+            </strow>
+            <strow>
+                <stentry>
+                    <p><b>Building for small business owners</b></p>
+                </stentry>
+                <stentry>
+                    <p>Wave is built for beginners who follow their passion its for the caterers,
+                        consultants, cafe owners, writers, builders, tutors and trainers, who work
+                        their butt off and never give up.</p>
+                </stentry>
+            </strow>
+        </simpletable>
+    </body>
+</topic>

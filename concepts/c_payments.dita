@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_qpt_sdw_pjb">
+    <title>Payments</title>
+    <body>
+        <image href="../pic/payments.jpeg" height="400" width="700" id="image_dsj_1yn_zjb"/>
+        <section><title>What are payments?</title>Payment is the transfer of one form of goods,
+            services, or financial assets in exchange for another form of goods, services, or
+            financial assets in acceptable proportions that have been previously agreed upon by all
+            parties involved.</section>
+        <section id="section_hfp_zgm_vjb">
+            <title>Faster payments, better cash flow</title>
+            <p>You can get paid in as fast as 2 business days, improve your brand, and look more
+                professional when you enable Payments by Wave. This will let you accept credit cards
+                and bank payments for as little as 1% per transaction.</p>
+        </section>
+        <section id="section_qbk_1hm_vjb">
+            <title>Give your customers what they want</title>
+            <p>Customers want an easy way to pay online without any hassle. You can email your
+                customers an invoice and they can use the simple and secure “Pay Now” button to send
+                over your payment. Fees are always low rate and there are no hidden fees.</p>
+        </section>
+        <section id="section_xfw_1hm_vjb">
+            <title>Never lose track of payments</title>
+            <p>With Wave, your invoices and payments automatically flow into your accounting
+                records. You will never lose track of payments again because of the cloud and you’ll
+                be all set when tax season starts.</p>
+        </section>
+        <section id="section_wrw_bhm_vjb">
+            <title>Send your invoices</title>
+            <p>Email invoices with a secure “Pay Now” button after you’ve turned on the online
+                payments option. These are important to have for your business.</p>
+        </section>
+        <section id="section_xk1_dhm_vjb">
+            <title>Get paid online</title>
+            <p>Customers can pay instantly by using credit card or secure bank payment when they
+                view the invoice online. This is an easy way for customers because it removes any
+                hassle. Automate bookkeeping: payments connect seamlessly with your Wave
+                account.</p>
+        </section>
+        <section id="section_t21_2hm_vjb">
+            <title>Money is deposited</title>
+            <p>You will get money in your account in 2 business days for credit card payments and
+                2-7 business days for bank payments . All major cards accepted: Visa,  Visa Debit,
+                Mastercard, Mastercard Debit, American Express and Discover.</p>
+        </section>
+        <p><b>Making Payments with your credit card and bank</b></p>
+    </body>
+    <topic id="id_qgn_cxp_zjb" conref="../reuse/c_credit_business_payments_reuse.dita">
+        <title/>
+    </topic>
+</topic>

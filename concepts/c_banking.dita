@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_qpt_sdw_pjb">
+    <title>Banking</title>
+    <body>
+        <p>Banking is an industry that handles money, credit, and other financial transactions.
+            Banks provide a safe place to store extra cash and credit. They offer savings accounts,
+            deposits, and checking accounts. Banks use these deposits to make loans. These loans
+            include home mortgages, business loans, and car loans.</p>
+        <p>The following topics are related to banking and will help you use Wave Financial
+            efficently.</p>
+        <p>Wave Financial also has direct deposit.</p>
+        <section conref="../reuse/c_payroll_reuse.dita#topic_qpt_sdw_pjb/section_gqq_shm_vjb"
+            id="section_g2g_cyp_zjb"/>
+    </body>
+</topic>

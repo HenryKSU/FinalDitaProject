@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_qpt_sdw_pjb">
+    <title>Credit Card and Business Payments</title>
+    <body>
+        <image id="image_wyt_wlm_vjb" href="../pic/creditcard.jpeg" width="700" height="400"/>
+        <p><b>Credit Card Payments</b></p>
+        <p>Credit Cards is better than paying with cash because it is faster and more efficient.
+            There are less mishops with credit cards and if anything goes wrong you can alaways call
+            your bank.</p>
+        <p>The faster the payment the better the cash flows in your business. Wave financial accepts
+            all major credit card companies so your customers can pay your invoices online as fast
+            as possible. </p>
+        <p>Get paid in 2 days or less, improve your brand to be bigger, and look more professional
+            when you enable Payments by Wave. Accept credit card payments for 2.9% + 30¢ per
+            transaction. </p>
+        <p>Get paid every month without having to really do anything. It comes to you automatically.
+            Customize invoice schedules for recurring customers and charge your clients’ cards
+            automatically.</p>
+        <p>Feel confident knowing your business and customer data are protected by  the highest
+            level of certified bank-grade  security practices.</p>
+        <p><b>Bank Payments</b></p>
+        <p>Payments directly from the bank can make your life easier. It goes directly to the source
+            which stops all the annoying parts of a payment process.</p>
+        <p>Wave's bank payments option is like paying by check, but without the hassle. You will be
+            able to do things digitally. There are no wait times with the check/ You'll get paid
+            faster which saves time for both you and your customers.</p>
+        <p>We are confident that you will never be exposed to data breach. You should know that your
+            financial data is protected by the highest level of certified bank-grade security
+            practices.</p>
+        <p>Faster payments mean better cash flow. When your customers use bank payments (ACH),
+            you’ll get your money within 2-7 business days.</p>
+        <p>Online payments at an amazing low rate. No hidden fees ever, we know how annoying it can
+            be. Your customers pay directly from their bank account. Perfect for when card payments
+            aren't the right option.</p>
+        <p><b>Making regular payments </b></p>
+        <p/>
+    </body>
+    <topic id="id_zn5_5wp_zjb" conref="../reuse/c_payments_reuse.dita">
+        <title/>
+    </topic>
+</topic>

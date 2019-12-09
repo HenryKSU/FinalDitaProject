@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_qpt_sdw_pjb">
+    <title>Invoicing</title>
+    <body>
+        <image id="image_ul5_dmm_vjb" href="../pic/invoice.jpg" width="700" height="400"/>
+        <section>
+            <title>What is an invoice?</title>
+            <p>An invoice is a commercial document issued by a seller to a buyer, it relates to a
+                sale transaction and indicating the products, quantities, and agreed prices for
+                products or services the seller had provided the buyer. Payment are usually made
+                through invoices because it is sent through customers.</p>
+        </section>
+        <section id="section_apt_qgm_vjb">
+            <title>Create invoices quickly</title>
+            <p>Every invoice paid means more revenue coming into your business. You can create and
+                send professional invoices to your customers in seconds. It is so fast, its faster
+                than the flash.</p>
+        </section>
+        <section id="section_qkq_rgm_vjb">
+            <title>Recurring billing for repeat customers</title>
+            <p>Get paid on time with Wave Financial. It is guarenteed pay every time. We are
+                confident in our system. Set up recurring invoices and automatic credit card
+                payments for your repeat customers and stop trying to chase the customers down
+                asking when it will come. Switch between automatic and manual billing whenever you
+                want. </p>
+        </section>
+        <section id="section_qwh_sgm_vjb">
+            <title>Your bookkeeping is already done</title>
+            <p>All your invoicing and payment information automatically syncs with the free
+                accounting software in your Wave account.</p>
+        </section>
+        <section id="section_pwd_tgm_vjb">
+            <title>Invoice on the go</title>
+            <p>You can do it through your phone. Send invoices whenever and wherever you want with
+                Wave’s app for iOS and Android. </p>
+        </section>
+        <section id="section_hl3_5gm_vjb">
+            <title>Instant notification</title>
+            <p>Know when an invoice is viewed, becomes due, or gets paid, so you can take the right
+                actions to manage your cash flow by checking the progress on your account. Set up
+                invoice reminders to automatically email your customers when payment is due.</p>
+        </section>
+        <section id="section_zmw_5gm_vjb">
+            <title>Accept payments online</title>
+            <p>Get paid in as fast as 2 business days, enhance your brand, and look more
+                professional when you enable Payments by Wave. Accept credit cards and bank payments
+                for as little as 1% per transaction.</p>
+        </section>
+        <p>If you would like to learn how to make a recurring invoices and invoices. </p>
+    </body>
+    <topic id="id_ccs_tzn_zjb" conref="../reuse/t_rec_invoice_reuse.dita">
+        <title/>
+    </topic>
+    <topic id="id_gx4_qzn_zjb" conref="../reuse/t_invoice_reuse.dita">
+        <title/>
+    </topic>
+</topic>

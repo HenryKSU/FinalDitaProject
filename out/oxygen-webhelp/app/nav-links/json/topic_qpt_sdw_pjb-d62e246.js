@@ -1,0 +1,1 @@
+define({"topics" : [{"title":"Frequently Asked Questions","href":"references\/r_faqs.html","attributes": {"data-id":"topic_qpt_sdw_pjb",},"menu": {"hasChildren":false,},"tocID":"topic_qpt_sdw_pjb-d62e254","topics":[]}]});

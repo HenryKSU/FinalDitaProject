@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="topic_qpt_sdw_pjb" path="concepts/c_introduction.html"/>
+   <appContext helpID="topic_qpt_sdw_pjb" path="concepts/c_story.html"/>
+   <appContext helpID="topic_qpt_sdw_pjb" path="references/r_team.html"/>
+   <appContext helpID="topic_qpt_sdw_pjb" path="concepts/c_values.html"/>
+   <appContext helpID="topic_qpt_sdw_pjb" path="concepts/c_mission.html"/>
+   <appContext helpID="topic_qpt_sdw_pjb" path="concepts/c_beliefs.html"/>
+   <appContext helpID="topic_qpt_sdw_pjb" path="concepts/c_partner.html"/>
+   <appContext helpID="topic_qpt_sdw_pjb" path="references/r_services.html"/>
+   <appContext helpID="topic_qpt_sdw_pjb" path="references/r_accounting.html"/>
+   <appContext helpID="topic_qpt_sdw_pjb" path="concepts/c_invoicing.html"/>
+   <appContext helpID="topic_qpt_sdw_pjb" path="concepts/c_payments.html"/>
+   <appContext helpID="topic_qpt_sdw_pjb" path="concepts/c_payroll.html"/>
+   <appContext helpID="topic_qpt_sdw_pjb"
+               path="concepts/c_credit_business_payments.html"/>
+   <appContext helpID="topic_qpt_sdw_pjb" path="references/r_reciepts.html"/>
+   <appContext helpID="topic_qpt_sdw_pjb" path="tasks/t_signup.html"/>
+   <appContext helpID="topic_qpt_sdw_pjb" path="references/r_launchpad.html"/>
+   <appContext helpID="topic_qpt_sdw_pjb" path="references/r_dashboard.html"/>
+   <appContext helpID="topic_qpt_sdw_pjb" path="concepts/c_sales.html"/>
+   <appContext helpID="topic_qpt_sdw_pjb" path="tasks/t_estimate.html"/>
+   <appContext helpID="topic_qpt_sdw_pjb" path="tasks/t_invoice.html"/>
+   <appContext helpID="topic_qpt_sdw_pjb" path="tasks/t_rec_invoice.html"/>
+   <appContext helpID="topic_qpt_sdw_pjb" path="concepts/c_accounting.html"/>
+   <appContext helpID="topic_qpt_sdw_pjb" path="references/r_transactions.html"/>
+   <appContext helpID="topic_qpt_sdw_pjb" path="tasks/t_recouncilation.html"/>
+   <appContext helpID="topic_qpt_sdw_pjb" path="references/r_chartofaccount.html"/>
+   <appContext helpID="topic_qpt_sdw_pjb" path="references/r_hirebookkeeper.html"/>
+   <appContext helpID="topic_qpt_sdw_pjb" path="concepts/c_banking.html"/>
+   <appContext helpID="topic_qpt_sdw_pjb" path="references/r_connectedaccounts.html"/>
+   <appContext helpID="topic_qpt_sdw_pjb" path="references/r_payouts.html"/>
+   <appContext helpID="topic_qpt_sdw_pjb" path="tasks/t_support.html"/>
+   <appContext helpID="topic_qpt_sdw_pjb" path="references/r_faqs.html"/>
+   <appContext helpID="resources-ref" path="references/r_resources.html"/>
+</map>
